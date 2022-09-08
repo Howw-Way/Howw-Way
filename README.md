@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Howw-Way/Howw-Way** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Howw-Way/Howw-Way** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on enhancing CFD with AI. 
 - 🌱 I’m currently learning some state-of-the-art algorithms.
