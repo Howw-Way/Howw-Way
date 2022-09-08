@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Cool
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=HowwWay&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Howw-Way&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HowwWay"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Howw-Way"/>
