@@ -15,9 +15,12 @@ Here are some ideas to get you started: -->
 
 <!--  GitHub stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Howw-Way&show_icons=true&theme=dark"/>
+
 <!-- Most used languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Howw-Way&layout=compact&theme=dark"/>
+
 <!-- Total contributions and streaks -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Howw-Way&theme=dark"/>
+
 <!-- GitHub repository -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Howw-Way&repo=Lecture-and-notes&theme=dark"/>
