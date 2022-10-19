@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on enhancing CFD with AI. 
 - 🌱 I’m currently learning some state-of-the-art algorithms.
-- 👯 I’m looking to collaborate on Computer Graphics.
+- 👯 I’m looking to collaborate on Computational Science.
 - 🤔 I’m looking for help with PhD position in CG, Ai, CV area. 
 - 💬 Ask me about anything I can help with.
 - 📫 How to reach me: Howw1225@Gmail.com
