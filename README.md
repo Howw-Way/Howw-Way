@@ -10,8 +10,10 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Computational Science.
 - 🤔 I’m looking for help with PhD position in CG, Ai, CV area. 
 - 💬 Ask me about anything I can help with.
-- 📫 How to reach me: Howw1225@Gmail.com and https://howw-way.netlify.app/.
+- 📫 How to reach me: Howw1225@Gmail.com
 - 😄 Pronouns: Cool
+-
+MORE INFO can be found in my personal web https://howw-way.netlify.app/.
 
 <!--  GitHub stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Howw-Way&show_icons=true&theme=dark"/>
