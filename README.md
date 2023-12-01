@@ -25,4 +25,5 @@ MORE INFO can be found in my personal web https://howw-way.netlify.app/.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Howw-Way&theme=dark"/>
 
 <!-- GitHub repository -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Howw-Way&repo=Lecture-and-notes&theme=dark"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Howw-Way&repo=Lecture-and-notes&theme=dark"/> -->
+
