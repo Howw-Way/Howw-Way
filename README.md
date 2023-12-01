@@ -15,7 +15,8 @@ Here are some ideas to get you started: -->
 MORE INFO can be found in my personal web https://howw-way.netlify.app/.
 
 <!--  GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Howw-Way&show_icons=true&theme=dark"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Howw-Way&show_icons=true&theme=dark"/> -->
+
 
 <!-- Most used languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Howw-Way&layout=compact&theme=dark"/>
