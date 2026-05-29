@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: Howw1225@Gmail.com
 - 😄 Pronouns: Cool
 
-MORE INFO can be found in my personal web https://howw-way.netlify.app/.
+MORE INFO can be found in my personal web https://howw-way.github.io/personal-web/.
 
 <!--  GitHub stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Howw-Way&show_icons=true&theme=dark"/> -->
