@@ -8,9 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on enhancing PDE solving with AI. 
 - 🌱 I’m currently learning some state-of-the-art algorithms, including operators, GNN, transformers.
 - 👯 I’m looking to collaborate on Ai4Science, especially in the area governed by PDE.
-- 💬 Ask me about anything I can help with.
 - 📫 How to reach me: Howw1225@Gmail.com
-- 😄 Pronouns: Cool
 
 MORE INFO can be found in my personal web https://howw-way.github.io/personal-web/.
 
