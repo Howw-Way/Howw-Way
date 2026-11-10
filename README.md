@@ -1,27 +1,34 @@
-### Hi there 👋
+# Hi, I'm Hao Wei 👋
 
+I work on **AI for Science**, exploring how machine learning can improve the way we solve **partial differential equations (PDEs)**.
 
-<!-- **Howw-Way/Howw-Way** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Focus:** AI-assisted PDE solvers and scientific computing.
+- 🌱 **Exploring:** Neural operators, graph neural networks (GNNs), and transformers.
+- 🤝 **Open to collaboration:** AI for Science projects involving systems governed by PDEs.
 
-Here are some ideas to get you started: -->
+[🌐 Personal website](https://howw-way.github.io/personal-web/) · [📫 Email](mailto:Howw1225@Gmail.com)
 
-- 🔭 I’m currently working on enhancing PDE solving with AI. 
-- 🌱 I’m currently learning some state-of-the-art algorithms, including operators, GNN, transformers.
-- 👯 I’m looking to collaborate on Ai4Science, especially in the area governed by PDE.
-- 📫 How to reach me: Howw1225@Gmail.com
+## 📊 GitHub activity
 
-MORE INFO can be found in my personal web https://howw-way.github.io/personal-web/.
+<p align="center">
+  <a href="https://github.com/Howw-Way">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Howw-Way&amp;theme=github-compact&amp;hide_border=true&amp;days=31"
+      alt="Howw-Way's GitHub contributions over the last 31 days"
+      width="100%"
+    />
+  </a>
+</p>
 
-<!--  GitHub stats -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Howw-Way&show_icons=true&theme=dark"/> -->
-
-
-<!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Howw-Way&layout=compact&theme=dark"/>
-
-<!-- Total contributions and streaks -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Howw-Way&theme=dark"/>
-
-<!-- GitHub repository -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Howw-Way&repo=Lecture-and-notes&theme=dark"/> -->
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howw-Way&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d1117"
+    alt="Most used languages in Howw-Way's GitHub repositories"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Howw-Way&amp;theme=dark&amp;hide_border=true&amp;background=0d1117"
+    alt="Howw-Way's total contributions, current streak, and longest streak"
+    height="165"
+  />
+</p>
