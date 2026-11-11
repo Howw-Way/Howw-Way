@@ -10,7 +10,7 @@ I work on **AI for Science**, exploring how machine learning can improve the way
 
 ## 📊 GitHub activity
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Howw-Way">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Howw-Way&amp;theme=github_dark"
@@ -18,7 +18,7 @@ I work on **AI for Science**, exploring how machine learning can improve the way
       width="100%"
     />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img
